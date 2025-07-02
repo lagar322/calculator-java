@@ -22,7 +22,7 @@
 - Установленный [JDK](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html ) (Java Development Kit)
 
 ### Шаги:
-1. Склонируйте репозиторий:
+1. Скопируйте репозиторий:
    ```bash
    git clone https://github.com/lagar322/calculator-java.git
    ```
